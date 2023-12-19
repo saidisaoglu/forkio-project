@@ -7,7 +7,7 @@
 
 @media (max-width: 924px) {
   html {
-    font-size: 75%;
+    font-size: 74%;
   }
 }
 @media (max-width: 1200px) {
@@ -134,7 +134,7 @@
 }
 .main-header img {
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   width: 100%;
   height: auto;
 }
@@ -271,7 +271,7 @@
 }
 .main-about-code .left-part ul li img {
   -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
   width: 6rem;
   margin: 5px 35px;
 }
@@ -438,7 +438,7 @@
   background-color: rgba(113, 89, 101, 0.6);
   color: whitesmoke;
   -webkit-backdrop-filter: blur(10px);
-          backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
   margin-bottom: 80px;
 }
 @media (max-width: 440px) {
@@ -478,4 +478,4 @@
   border-radius: 25px;
   border: none;
   background-color: #7f707f;
-}/*# sourceMappingURL=Home.css.map */
+} /*# sourceMappingURL=Home.css.map */
